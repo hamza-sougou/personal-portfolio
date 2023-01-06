@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio-2023/static/css/main.3bdbeb7a.css",
+    "main.js": "/portfolio-2023/static/js/main.efc7a0e4.js",
+    "static/js/787.fb771931.chunk.js": "/portfolio-2023/static/js/787.fb771931.chunk.js",
+    "static/media/banner-bg.png": "/portfolio-2023/static/media/banner-bg.ea316803ba7f594a2384.png",
+    "static/media/logo_3.png": "/portfolio-2023/static/media/logo_3.ae573b353df403372c02.png",
+    "static/media/Roboto-Medium.ttf": "/portfolio-2023/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Regular.ttf": "/portfolio-2023/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/portfolio-2023/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/CV_HAMZA2022.pdf": "/portfolio-2023/static/media/CV_HAMZA2022.c4dfe40bde6d8d7f2df7.pdf",
+    "static/media/logo_6.png": "/portfolio-2023/static/media/logo_6.ef8953ada7932ecea027.png",
+    "static/media/logo_5.png": "/portfolio-2023/static/media/logo_5.a4e914a13866403be8ab.png",
+    "static/media/logo_2.png": "/portfolio-2023/static/media/logo_2.7175a1aeb63d4a8959a8.png",
+    "static/media/logo_1.png": "/portfolio-2023/static/media/logo_1.e4d55c89502b2a988d10.png",
+    "static/media/circular-95.png": "/portfolio-2023/static/media/circular-95.0231e290606fdcbecbb1.png",
+    "static/media/circular-85.png": "/portfolio-2023/static/media/circular-85.b93c003d733915cad048.png",
+    "static/media/circular-80.png": "/portfolio-2023/static/media/circular-80.e82803d41eee5f4d0eaa.png",
+    "static/media/circular-65.png": "/portfolio-2023/static/media/circular-65.e4adeb850b403a6fc26e.png",
+    "static/media/logo_4.png": "/portfolio-2023/static/media/logo_4.21471b043eafdb2f291e.png",
+    "static/media/header-img.svg": "/portfolio-2023/static/media/header-img.5f10383448f58f4345b9fe38f4a903a0.svg",
+    "static/media/revicons.eot": "/portfolio-2023/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio-2023/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio-2023/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/portfolio-2023/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/github.svg": "/portfolio-2023/static/media/github.9ae25b0e7c8bb2f25c48f34e49212251.svg",
+    "index.html": "/portfolio-2023/index.html",
+    "static/media/instagram.svg": "/portfolio-2023/static/media/instagram.b6e1cdf1bf7bf1929eed54ac3c058b3e.svg",
+    "static/media/linkedin.svg": "/portfolio-2023/static/media/linkedin.e5e6f814a528d770b1cc86de8f98b200.svg",
+    "main.3bdbeb7a.css.map": "/portfolio-2023/static/css/main.3bdbeb7a.css.map",
+    "main.efc7a0e4.js.map": "/portfolio-2023/static/js/main.efc7a0e4.js.map",
+    "787.fb771931.chunk.js.map": "/portfolio-2023/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bdbeb7a.css",
+    "static/js/main.efc7a0e4.js"
+  ]
+}
